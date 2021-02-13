@@ -8,3 +8,4 @@ Listar heroes
 * BlackPanter
 * Capitán América
 * Doctor Streange
+* Falcon
