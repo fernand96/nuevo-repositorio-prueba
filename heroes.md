@@ -8,4 +8,5 @@ Listar heroes
 * BlackPanter
 * Capitán América
 * Doctor Streange
-* Bruja Escarlate
+* Falcon
+* Vision
