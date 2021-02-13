@@ -2,7 +2,6 @@
 
 Listar heroes
 
-* SpiderMan
+* SpiderMan o hombre Araña
 * IronMan
-* BatMan
-* BlackPanter
+* Batman
