@@ -7,3 +7,4 @@ Listar heroes
 * Batman
 * BlackPanter
 * Capitán América
+* Doctor Streange
