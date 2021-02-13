@@ -5,3 +5,5 @@ Listar heroes
 * SpiderMan o hombre Araña
 * IronMan
 * Batman
+* BlackPanter
+* Capitán América
