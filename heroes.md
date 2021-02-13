@@ -5,3 +5,4 @@ Listar heroes
 * SpiderMan
 * IronMan
 * BatMan
+* BlackPanter
